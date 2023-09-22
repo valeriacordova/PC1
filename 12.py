@@ -1,0 +1,1 @@
+nombre_archivo = input("Ingrese el nombre del archivo: ")
